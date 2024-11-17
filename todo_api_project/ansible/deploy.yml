@@ -7,4 +7,4 @@
     - name: Run Docker Compose
       command: docker-compose up -d
       args:
-        chdir: /path/to/your/project
+        chdir: /Documents/MYSQL challange/mySQL_challenge/todo_api_project
